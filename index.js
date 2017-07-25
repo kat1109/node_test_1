@@ -3,7 +3,7 @@
  */
 ReactDOM.render(
 	<h1 id='title'>
-		{2+32}
+		'Hello world!!!'
 	</h1>,
 	document.getElementById('container')
 )
