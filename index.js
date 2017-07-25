@@ -5,6 +5,7 @@ ReactDOM.render(
 	<h1 id='title'>
 		Hello world!!!
 		{2+2}
+		Kateryna Glukhovtsova
 	</h1>,
 	document.getElementById('container')
 )
